@@ -69,7 +69,7 @@ The current NU Professor Queuing System located in front of the faculty offices.
  
 ---
  
-## TOPIC III. AI Model Performance Degradation
+## TOPIC III. AI chatbots Performance Degradation long term
 
  
 **Idea:**
