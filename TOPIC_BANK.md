@@ -70,30 +70,37 @@ The current NU Professor Queuing System located in front of the faculty offices.
 ---
  
 ## TOPIC III. AI Model Performance Degradation
- 
+
+ 
 **Idea:**
 Creating solution for model performance degradation.
- 
+
+ 
 **Problem:**
 AI chatbots performance gradually gets worse as long term the models answers get less accurate, relevant, or reliable over time.
- 
+
+ 
 **Closest Existing Work:**
 *CHEEM framework* (Continual Hierarchical‑Exploration‑Exploitation Memory) from North Carolina State University
- 
+
+ 
 **Data Needed:**
 - Comprehensive and Representative Dataset: 
 - Diversity and Augmentation
 - Fresh and Updated Data
+
  
 **Compute Needed:**
 - CUDA‑capable GPUs with high tensor cores and large VRAM.
 - VRAM that can accommodate the model parameters plus active batch sizes.
 - High‑bandwidth memory (HBM)
 - High‑speed networking ( InfiniBand, 400 GbE) for distributed training
+
  
 **Biggest Risk:**
 - Project cost and materials
 - Available data for improving retention of a model
+
  
 **Team Interest (1-5):** ___
  
