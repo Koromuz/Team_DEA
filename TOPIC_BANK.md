@@ -107,17 +107,21 @@ AI chatbots performance gradually gets worse as long term the models answers get
 ---
  
 ## TOPIC IV AI-Powered Career Guidance System In The Philippines.
- 
+
+ 
 **Idea:**
 A system that uses AI to assess a student's capabilities, predict their potential, and identify their specific strengths in relation to a particular course or academic program.
- 
+
+ 
 **Problem:**
 Many students struggle with choosing an academic course that aligns with their interests, abilities, and strengths. This leads some college students to repeat academic years or shift programs due to unsuitable course choices, while graduating Senior High School students face uncertainty in selecting a college course that matches their capabilities and future career goals.
- 
+
+ 
 **Closest Existing Work:**
 AI-powered Career Guidance System
 Survey paper-AI powered career recommendation For Students
- 
+
+ 
 **Data Needed:**
 * Student Profile Data
 * Academic Performance Data
@@ -125,6 +129,7 @@ Survey paper-AI powered career recommendation For Students
 * Students' Interest & Preferences
 * Student Academic History
 * Expert or Guidance Counselor Assessment
+
  
 **Compute Needed:**
 * Cloud-based hosting platform for system accessibility.
@@ -135,6 +140,7 @@ Survey paper-AI powered career recommendation For Students
 * Stable internet connection for students, administrators, and guidance counselors.
 * Integration with existing school information systems, if available.
 
+
 **Biggest Risk:**
 * Inaccurate AI predictions resulting in unsuitable course recommendations.
 * Incomplete or insufficient student academic and assessment data.
@@ -142,6 +148,7 @@ Survey paper-AI powered career recommendation For Students
 * Resistance from guidance counselors, faculty members, and administrators to adopting an AI-based system.
 * Data privacy and security concerns involving sensitive student information.
 * Students relying entirely on AI recommendations instead of considering their personal interests and career goals.
+
  
 **Team Interest (1-5):** ___
  
