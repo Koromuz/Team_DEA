@@ -106,25 +106,42 @@ AI chatbots performance gradually gets worse as long term the models answers get
  
 ---
  
-## TOPIC IV.
+## TOPIC IV AI-Powered Career Guidance System In The Philippines.
  
 **Idea:**
-TBD
+A system that uses AI to assess a student's capabilities, predict their potential, and identify their specific strengths in relation to a particular course or academic program.
  
 **Problem:**
-TBD
+Many students struggle with choosing an academic course that aligns with their interests, abilities, and strengths. This leads some college students to repeat academic years or shift programs due to unsuitable course choices, while graduating Senior High School students face uncertainty in selecting a college course that matches their capabilities and future career goals.
  
 **Closest Existing Work:**
-TBD
+AI-powered Career Guidance System
+Survey paper-AI powered career recommendation For Students
  
 **Data Needed:**
-TBD
+* Student Profile Data
+* Academic Performance Data
+* Skills & Abilities
+* Students' Interest & Preferences
+* Student Academic History
+* Expert or Guidance Counselor Assessment
  
 **Compute Needed:**
-TBD
- 
+* Cloud-based hosting platform for system accessibility.
+* AI and machine learning infrastructure for analyzing student data and predicting suitable college courses.
+* Real-time database infrastructure for storing and retrieving student profiles, grades, skills, and assessment results.
+* Data processing capabilities for evaluating student performance and identifying strengths and weaknesses.
+* Secure data storage and backup systems to protect student academic records.
+* Stable internet connection for students, administrators, and guidance counselors.
+* Integration with existing school information systems, if available.
+
 **Biggest Risk:**
-TBD
+* Inaccurate AI predictions resulting in unsuitable course recommendations.
+* Incomplete or insufficient student academic and assessment data.
+* Low adoption rate among students due to lack of awareness or trust in AI recommendations.
+* Resistance from guidance counselors, faculty members, and administrators to adopting an AI-based system.
+* Data privacy and security concerns involving sensitive student information.
+* Students relying entirely on AI recommendations instead of considering their personal interests and career goals.
  
 **Team Interest (1-5):** ___
  
