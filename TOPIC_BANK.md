@@ -1,49 +1,140 @@
-TOPIC I.
-Idea: Understanding Students Online Attentiveness using Computer Vision
-Problem: As online modality in the academic ecosystem is being adopted by a wide variety of schools
-student attentiveness has been an issue. Students are faced with countless distractions while being
-in the comfort of their home, as such this study proposal aims to reduce the distractions of students
-by developing a computer vision software that detects the student attentiveness and online class engagement.
-Closest Existing Work: Real-Time Student Attention Monitoring in Classrooms Using Computer Vision - Abdul Moeid ; Mokammel Haque 
-Data Needed: Image/Video Datasets of Students who are in a Online Class
-Compute Needed:A cloud GPU environment with an NVIDIA GPU for the fine-tuning of the model alongside a webcam for real-time testing
-Biggest Risk: Data Privacy and ethical concerns regarding the continous use of webcam monitoring, and false-positives that can be caused
-by environmental factors.
-Team Interest (1-5): 
+# Research Topic Proposals
+ 
+## TOPIC I. Understanding Students' Online Attentiveness Using Computer Vision
 
-TOPIC II.
-Idea: A Development of a System B comparison for the current NU Professor Queuing System
-Problem: The current NU Professor Queuing System has been a headache to some of the students of the university,
-as such the researchers plan to develop a more robust and easy to digest NU Professor Queuing System.
-Closest Existing Work: The Current NU Queuing System located infront of the Faculty.
-Data Needed: Surveys and usability feedback from students and faculty members regarding pain points of the current system
-Compute Needed: a standard cloud hosting tier for web application and real-time database.
-Biggest Risk: Low adoption and resistance from faculty members and admins to change the existing system
-Team Interest (1-5): 
+ 
+**Idea:**
+Develop a computer vision system that analyzes student attentiveness and engagement during online classes.
 
-TOPIC III.
-Idea:
-Problem:
-Closest Existing Work:
-Data Needed:
-Compute Needed:
-Biggest Risk:
-Team Interest (1-5): 
+ 
+**Problem:**
+As online learning continues to be adopted by educational institutions, maintaining student attentiveness has become a significant challenge. Students are exposed to numerous distractions while studying from home. This study aims to address this issue by developing a computer vision-based software solution that can detect student attentiveness and engagement during online classes.
 
-TOPIC IV.
-Idea:
-Problem:
-Closest Existing Work:
-Data Needed:
-Compute Needed:
-Biggest Risk:
-Team Interest (1-5): 
+ 
+**Closest Existing Work:**
+*Real-Time Student Attention Monitoring in Classrooms Using Computer Vision* by Abdul Moeid and Mokammel Haque
 
-TOPIC V.
-Idea:
-Problem:
-Closest Existing Work:
-Data Needed:
-Compute Needed:
-Biggest Risk:
-Team Interest (1-5): 
+ 
+**Data Needed:**
+- Image datasets of students attending online classes
+- Video datasets of students participating in online learning sessions
+
+ 
+**Compute Needed:**
+- Cloud GPU environment with NVIDIA GPUs for model training and fine-tuning
+- Webcam for real-time testing and evaluation
+
+ 
+**Biggest Risk:**
+- Data privacy and ethical concerns regarding continuous webcam monitoring
+- False positives caused by environmental factors, lighting conditions, and camera quality
+
+ 
+**Team Interest (1-5):** ___
+ 
+---
+ 
+## TOPIC II. Development of an Alternative System for the Current NU Professor Queuing System
+
+ 
+**Idea:**
+Design and develop an improved version of the current NU Professor Queuing System that offers a better user experience and more efficient queue management.
+
+ 
+**Problem:**
+The current NU Professor Queuing System presents usability challenges for students. The researchers aim to develop a more robust, user-friendly, and intuitive queuing system that addresses the shortcomings of the existing solution.
+
+ 
+**Closest Existing Work:**
+The current NU Professor Queuing System located in front of the faculty offices.
+
+ 
+**Data Needed:**
+- Student surveys
+- Faculty surveys
+- Usability feedback regarding pain points of the current system
+
+ 
+**Compute Needed:**
+- Standard cloud hosting platform
+- Real-time database infrastructure
+
+ 
+**Biggest Risk:**
+- Low adoption rate among users
+- Resistance from faculty members and administrators to replace the existing system
+
+ 
+**Team Interest (1-5):** ___
+ 
+---
+ 
+## TOPIC III.
+ 
+**Idea:**
+TBD
+ 
+**Problem:**
+TBD
+ 
+**Closest Existing Work:**
+TBD
+ 
+**Data Needed:**
+TBD
+ 
+**Compute Needed:**
+TBD
+ 
+**Biggest Risk:**
+TBD
+ 
+**Team Interest (1-5):** ___
+ 
+---
+ 
+## TOPIC IV.
+ 
+**Idea:**
+TBD
+ 
+**Problem:**
+TBD
+ 
+**Closest Existing Work:**
+TBD
+ 
+**Data Needed:**
+TBD
+ 
+**Compute Needed:**
+TBD
+ 
+**Biggest Risk:**
+TBD
+ 
+**Team Interest (1-5):** ___
+ 
+---
+ 
+## TOPIC V.
+ 
+**Idea:**
+TBD
+ 
+**Problem:**
+TBD
+ 
+**Closest Existing Work:**
+TBD
+ 
+**Data Needed:**
+TBD
+ 
+**Compute Needed:**
+TBD
+ 
+**Biggest Risk:**
+TBD
+ 
+**Team Interest (1-5):** ___
